@@ -1,0 +1,5 @@
+{
+  "s3_bucket": "sagemaker-us-east-1-620425758198",
+  "s3_key": "test/bicycle/bicycle_s_000513.png",
+  "image_data": ""
+}
